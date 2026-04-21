@@ -66,7 +66,7 @@ Além disso, foram criadas novas métricas:
 
 ### Análise de Receita
 
-![Dashboard](dashboard/dashboard_receita.png)
+![Dashboard](dashboard/analise_receita.png)
 
 ### Análise Descritiva
 
