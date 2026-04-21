@@ -70,7 +70,7 @@ Além disso, foram criadas novas métricas:
 
 ### Análise Descritiva
 
-![Descritiva](dashboard/analise_descritiva.png)
+![Descritiva](dashboard/analises_descritiva.png)
 
 ---
 
