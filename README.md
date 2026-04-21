@@ -78,7 +78,6 @@ Além disso, foram criadas novas métricas:
 
 ```
 data/ → bases de dados  
-docs/ → documentação  
 dashboard/ → prints principais  
 images/ → imagens auxiliares  
 ```
